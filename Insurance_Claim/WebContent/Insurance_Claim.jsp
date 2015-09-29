@@ -214,7 +214,7 @@ body{font-family:"Arial"}
 					<td><textarea rows="4" cols="30" name="Ldesc" id="Ldesc">${Ldesc}</textarea></td>
 				</tr>
 							 
-      <!--Loss Description Field Demo - Appworks Demo -- end -->
+      <!--Loss Description Field Demo - Appworks Demo --- end -->
 		
 		
 				<tr>
