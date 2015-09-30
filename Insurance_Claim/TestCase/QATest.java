@@ -65,8 +65,8 @@ public class QATest extends TestCase {
 			new Select(driver.findElement(By.id("Ltime")))
 					.selectByVisibleText("01:00");
 			
-			 driver.findElement(By.id("Ldesc")).clear();
-			 driver.findElement(By.id("Ldesc")).sendKeys("I was rear ended in the parking lots");
+			driver.findElement(By.id("Ldesc")).clear();
+			driver.findElement(By.id("Ldesc")).sendKeys("I was rear ended in the parking lots");
 			 
 			driver.findElement(By.name("Laddress")).clear();
 			driver.findElement(By.name("Laddress")).sendKeys("Washington");

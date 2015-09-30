@@ -64,9 +64,11 @@ public class ProTest extends TestCase {
 			driver.findElement(By.id("datepicker")).sendKeys("10/20/2014");
 			new Select(driver.findElement(By.id("Ltime")))
 					.selectByVisibleText("01:00");
-			 driver.findElement(By.id("Ldesc")).clear();
-			 driver.findElement(By.id("Ldesc")).sendKeys("I was rear ended in the parking lots");
-			driver.findElement(By.name("Laddress")).clear();
+			 
+			driver.findElement(By.id("Ldesc")).clear();
+			driver.findElement(By.id("Ldesc")).sendKeys("I was rear ended in the parking lots");
+			
+			 driver.findElement(By.name("Laddress")).clear();
 			driver.findElement(By.name("Laddress")).sendKeys("Washington");
 			driver.findElement(By.name("Lcity")).clear();
 			driver.findElement(By.name("Lcity")).sendKeys("Olympia");
