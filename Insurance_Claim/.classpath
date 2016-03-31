@@ -9,5 +9,6 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="WebContent/lib/javax.servlet-3.0.0.v201112011016.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
