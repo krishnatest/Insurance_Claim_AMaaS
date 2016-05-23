@@ -205,7 +205,7 @@ body{font-family:"Arial"}
 				</tr>
 			  
 
-	  <!--Loss Description Field AddDemo- Appworks Demo ------------------------------------------- begin HERE --->
+	  <!--Loss Description Field AddDemo- Appworks Demo ------------------------------------------- begin HERE 
 
 
 		 		<tr style="background-color:yellow">
@@ -215,7 +215,7 @@ body{font-family:"Arial"}
 				</tr>
 
 
-      <!--Loss Description Field Demo - Appworks Demo ------------------------------------------------- end HERE
+      <!--Loss Description Field Demo - Appworks Demo ------------------------------------------------- end HERE --->
 
 				<tr>
 					<td><label>&nbsp;&nbsp;Loss&nbsp;Location&nbsp;Address<span
