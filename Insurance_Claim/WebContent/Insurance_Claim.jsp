@@ -205,6 +205,19 @@ body{font-family:"Arial"}
 				</tr>
 			  
 
+ <<<<<<< HEAD
+	  <!--Loss Description Field AddDemo- Appworks Demo --------------------------------------- begin HERE -->
+
+=======
+	  <!--Loss Description Field AddDemo- Appworks Demo ----------------------------------------- begin HERE -->
+>>>>>>> branch 'master' of https://github.com/testcseapi/Insurance_Claim.git
+
+		 		<tr style="background-color:yellow">
+					<td><span style="color: #ff0000">*</span><label>Loss&nbsp;Description<span
+							class="dttab"></span></label></td>
+					<td><textarea rows="4" cols="30" name="Ldesc" id="Ldesc">${Ldesc}</textarea></td>
+				</tr>
+
       <!--Loss Description Field Demo - Appworks Demo ------------------------------------------- end HERE --->
 
 				<tr>
