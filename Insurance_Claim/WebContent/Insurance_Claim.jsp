@@ -205,8 +205,8 @@ body{font-family:"Arial"}
 				</tr>
 			  
 
-<<<<<<< HEAD
-	  <!--Loss Description Field AddDemo- Appworks Demo --------------------------------------- begin HERE -->
+<!--  --> <<<<<<< HEAD
+	  <!--Loss Description Field AddDemo- Appworks Demo --------------------------------------- begin HERE 
 
 =======
 	  <!--Loss Description Field AddDemo- Appworks Demo ----------------------------------------- begin HERE -->
@@ -218,7 +218,7 @@ body{font-family:"Arial"}
 					<td><textarea rows="4" cols="30" name="Ldesc" id="Ldesc">${Ldesc}</textarea></td>
 				</tr>
 
-      <!--Loss Description Field Demo - Appworks Demo ------------------------------------------- end HERE 
+      <!--Loss Description Field Demo - Appworks Demo ------------------------------------------- end HERE --->
 
 				<tr>
 					<td><label>&nbsp;&nbsp;Loss&nbsp;Location&nbsp;Address<span
