@@ -216,7 +216,6 @@ body{font-family:"Arial"}
 				</tr>
 
 
-
       <!--Loss Description Field Demo - Appworks Demo ------------------------------------------- end HERE --->
 
 				<tr>
