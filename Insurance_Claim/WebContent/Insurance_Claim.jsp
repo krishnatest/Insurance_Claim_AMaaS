@@ -207,7 +207,7 @@ body{font-family:"Arial"}
 
 
 	  <!--Loss Description Field AddDemo- Appworks Demo ----------------------------------------- begin HERE -->
-	
+	  
 
 		 		<tr style="background-color:yellow">
 					<td><span style="color: #ff0000">*</span><label>Loss&nbsp;Description<span
