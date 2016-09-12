@@ -28,7 +28,7 @@ public class DevTest extends TestCase {
 
 		public void setUp() throws Exception {
 			driver = new HtmlUnitDriver();
-			baseUrl = "http://cads-insurance-dev.elasticbeanstalk.com/Insurance_Claim.jsp";
+			baseUrl = "http://cads-insurance-dev-new.elasticbeanstalk.com/Insurance_Claim.jsp";
 			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 			driver.manage().window().maximize();
 		}
