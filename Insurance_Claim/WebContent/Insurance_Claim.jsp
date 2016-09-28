@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insurance_Claim_Form</title>
+<title>Insurance_Claim_Form_AMaaS_DevOps</title>
 <link rel="stylesheet" media="all" type="text/css"
 	href="css/jquery-time-ui.css" />
 <script type="text/javascript" src="js/jquery.js"></script>
