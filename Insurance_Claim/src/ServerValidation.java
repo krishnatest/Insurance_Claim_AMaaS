@@ -74,7 +74,6 @@ public class ServerValidation extends HttpServlet {
 			error += "Please Select the ClaimSubmit<br/>";
 			result = false;
 		}
-		
 
 		if (Fname.equals("")) {
 			error += "Please enter Firstname<br/>";
