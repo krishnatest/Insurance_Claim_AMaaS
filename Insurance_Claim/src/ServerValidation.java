@@ -69,8 +69,8 @@ public class ServerValidation extends HttpServlet {
 
 		
 		//AppWorks Logical Error Introduce
-		//if (ClaimSubmit == "") {
-		if (ClaimSubmit.equals("")) {
+		if (ClaimSubmit == "") {
+		//if (ClaimSubmit.equals("")) {
 			error += "Please Select the ClaimSubmit<br/>";
 			result = false;
 		}
